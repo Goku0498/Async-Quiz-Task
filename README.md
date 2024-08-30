@@ -3,4 +3,5 @@
 <ul>
   <li>Used Async Await fetch to get data from API used</li>
   <li>Used full name for functions and variable for better understanding</li>
+  <li>Deployed URL: https://quiz-quest-async.netlify.app</li>
 </ul>
